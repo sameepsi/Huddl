@@ -3,6 +3,7 @@ pragma solidity 0.4.24;
 import "openzeppelin-solidity/contracts/token/ERC20/ERC20Mintable.sol"; 
 import "openzeppelin-solidity/contracts/math/SafeMath.sol";
 
+
 /** 
 * @dev Mintable Huddl Token
 * Initially deployer of the contract is only valid minter. Later on when distribution contract is deployed following steps needs to be followed-:
