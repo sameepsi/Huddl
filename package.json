@@ -1,5 +1,5 @@
 {
-  "name": "Huddl smart contracts",
+  "name": "huddl-smart-contracts",
   "version": "1.0.0",
   "description": "This repository contains all Huddl smart contracts",
   "main": "truffle.js",
@@ -7,7 +7,6 @@
     "test": "test"
   },
   "devDependencies": {
-   
     "ganache-cli": "^6.1.8",
     "husky": "^1.1.0",
     "solium": "^1.1.8",
